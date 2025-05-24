@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0f2027;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#203a43;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2c5364;stop-opacity:1" />
+    </linearGradient>
+    <style>
+      .title { font: bold 40px sans-serif; fill: white; }
+      .subtitle { font: 20px sans-serif; fill: #ddd; }
+    </style>
+  </defs>
+  <rect width="800" height="200" fill="url(#bg)" />
+  <text x="400" y="80" class="title" text-anchor="middle">Vijai Goud</text>
+  <text x="400" y="120" class="subtitle" text-anchor="middle">Full Stack Developer | Portfolio Specialist</text>
+  <text x="400" y="160" class="subtitle" text-anchor="middle">Turning Ideas into Reality</text>
+</svg>
