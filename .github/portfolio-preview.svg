@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600" height="300" viewBox="0 0 600 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="card-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3a1c71;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#d76d77;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ffaf7b;stop-opacity:1" />
+    </linearGradient>
+    <style>
+      .card-title { font: bold 24px sans-serif; fill: white; }
+      .card-text { font: 16px sans-serif; fill: #eee; }
+      .icon { font: 40px sans-serif; fill: white; }
+    </style>
+  </defs>
+  <rect width="600" height="300" rx="15" fill="url(#card-bg)" />
+  <g transform="translate(40, 40)">
+    <text x="0" y="0" class="card-title">Portfolio Dashboard</text>
+    <text x="0" y="40" class="card-text">Modern analytics platform with:</text>
+    <text x="20" y="80" class="card-text">• Real-time data visualization</text>
+    <text x="20" y="110" class="card-text">• Interactive charts and graphs</text>
+    <text x="20" y="140" class="card-text">• Performance metrics tracking</text>
+    <text x="20" y="170" class="card-text">• Responsive design</text>
+  </g>
+  <g transform="translate(400, 150)">
+    <text class="icon">📊</text>
+    <text x="60" y="0" class="icon">📈</text>
+  </g>
+</svg>
