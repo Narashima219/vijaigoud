@@ -13,6 +13,7 @@
   [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
   [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
   
+  [![Profile Views](https://komarev.com/ghpvc/?username=Narashima219&color=blueviolet&style=flat-square&label=Profile+Views)]()
 </div>
 
 ## 🚀 About Me
@@ -21,24 +22,28 @@ Innovative and detail-oriented developer passionate about creating impactful sol
 ## 💻 Technical Skills
 
 ### Frontend Development
-- HTML5, CSS3, JavaScript
-- Responsive Design
-- UI/UX Best Practices
+- 🎨 HTML5, CSS3, JavaScript
+- 📱 Responsive Design
+- 🎯 UI/UX Best Practices
 
 ### Tools & Technologies
-- Version Control (Git)
-- GitHub
-- Web Development Tools
+- 🔄 Version Control (Git)
+- 🌐 GitHub
+- 🛠️ Web Development Tools
 
 ### Soft Skills
-- Problem Solving
-- Team Collaboration
-- Continuous Learning
-- Attention to Detail
+- 🧩 Problem Solving
+- 👥 Team Collaboration
+- 📚 Continuous Learning
+- 🔍 Attention to Detail
 
 ## 🌟 Featured Projects
 
 ### Portfolio Dashboard
+<div align="center">
+  <img src=".github/portfolio-preview.svg" alt="Portfolio Dashboard Preview" width="600"/>
+</div>
+
 A sophisticated dashboard for tracking and analyzing portfolio performance.
 
 **Key Features:**
@@ -57,6 +62,7 @@ A sophisticated dashboard for tracking and analyzing portfolio performance.
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Narashima219&theme=tokyonight)
   
+  [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Narashima219&theme=tokyo-night)]()
 </div>
 
 ## 📫 Let's Connect
@@ -64,11 +70,16 @@ A sophisticated dashboard for tracking and analyzing portfolio performance.
 <div align="center">
   
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Narashima219)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]()
   
 </div>
 
 ---
 
 <div align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad." - Cory House</i>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  
+  ### 🎵 Currently Coding To
+  [![Spotify](https://novatorem-spotify.vercel.app/api/spotify)]()
 </div>
